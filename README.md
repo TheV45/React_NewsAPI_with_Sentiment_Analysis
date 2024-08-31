@@ -16,3 +16,8 @@ b) Run the backend server: ```node server.js```
 
 ## Project Demo Link:
 https://drive.google.com/file/d/1S6kRLAW6HyV854Z597Dnk1_jpWKtyzIM/view?usp=sharing
+
+## GCP Hosted Link:
+https://reactnewsapi.wl.r.appspot.com
+
+Note: the news are not being fetched because the News API requires subscription for CORS enabled for all origins
