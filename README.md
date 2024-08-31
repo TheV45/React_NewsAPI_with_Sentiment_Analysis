@@ -11,6 +11,9 @@ b) Run the build command: ```npm run build```
 a) Navigate to the backend directory: ```cd backend```
 b) Run the backend server: ```node server.js```
 
+## Step 4
+Add ```OPENAI_API_KEY``` to ```.env``` file
+
 
 ## Project Demo Link:
 https://drive.google.com/file/d/1S6kRLAW6HyV854Z597Dnk1_jpWKtyzIM/view?usp=sharing
