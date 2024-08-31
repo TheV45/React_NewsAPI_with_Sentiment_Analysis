@@ -8,5 +8,5 @@ b) Run the build command: npm run build
 cp -r build ../backend/
 
 ## Step 3 
-a) Navigate to the backend directory: cd backend
-b) Run the backend server: node server.js
+a) Navigate to the backend directory: ```cd backend
+b) Run the backend server: ```node server.js
