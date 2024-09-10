@@ -2,7 +2,8 @@
 
 ## Step 1 Build the React Application
 a) Navigate to the React frontend directory: ```cd frontend ```
-b) Run the build command: ```npm run build```
+b) Run ```npm install```
+c) Run the build command: ```npm run build```
 
 ## Step 2 Move the Build Files to the Backend
 ```cp -r build ../backend/```
