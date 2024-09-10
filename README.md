@@ -1,4 +1,4 @@
-# React_NewsAPI
+# React_NewsAPI_with_Sentiment_Analysis
 
 ## Step 1 Build the React Application
 a) Navigate to the React frontend directory: ```cd frontend ```
